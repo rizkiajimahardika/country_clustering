@@ -1,1 +1,5 @@
-# country_clustering
+# Clustering of Countries in Need of Financial Assistance
+HELP International is an international humanitarian NGO committed to fighting poverty and providing basic facilities and assistance to people in underdeveloped countries during disasters and natural calamities. HELP International has successfully raised about $10 million. At this time, the CEO of the NGO needs to decide how to use this money strategically and effectively. So, the CEO must make the decision to choose the country that needs the most help. For that, clustering is done by categorizing countries using socio-economic and health factors that determine the overall development of the country.
+![image](https://github.com/rizkiajimahardika/country_clustering/assets/79896604/683ca99d-5c8b-4374-afdf-0f913d08e496)
+![image](https://github.com/rizkiajimahardika/country_clustering/assets/79896604/47066171-1b27-4ac7-ac9f-e46e3cf7faac)
+Link : https://medium.com/@rizkimahardika37/clustering-of-countries-in-need-of-financial-assistance-7f68d5204b7f
